@@ -9,11 +9,11 @@ This project analyzes Airbnb data across 10 international cities to identify mar
 
 ## 📊 Key Dashboards
 ### 1. Market Overview & Trends
-![Market Trends](./Screenshots/Screenshot_2026-05-01_094140.png)
+![Market Trends](airbnb-listings-growth-trend.png)
 *Highlights the growth of listings from 2008 to 2021 and the distribution of room types.*
 
 ### 2. Performance & Ratings
-![Performance Analysis](./Screenshots/Screenshot_2026-05-01_094151.png)
+![Performance Analysis](airbnb-listings-growth-trend.png)
 *Analyzes average pricing by room type and detailed customer ratings by city.*
 
 ## 💡 Business Insights (What I Discovered)
